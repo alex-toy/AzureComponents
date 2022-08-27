@@ -26,8 +26,8 @@ def populate_table(cursor, filename, tablename):
 ########################################
 # Update connection string information #
 ########################################
-host = "alexeipostgresserver.postgres.database.azure.com"
-user = "sqladminuser"
+host = "alexeipostgreserver.postgres.database.azure.com"
+user = "postgresadmin"
 password = "Alexei.80"
 sslmode = "require"
 

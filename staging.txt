@@ -1,3 +1,4 @@
+
 [ID] nvarchar(4000),
 [Severity] nvarchar(4000),
 [Start_Time] nvarchar(4000),
